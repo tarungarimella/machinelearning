@@ -14,3 +14,9 @@ This assignement provides me the knowledge about the nested loops and slicing of
 video:
 # ML_Assignment_3 brief introduction :
 Jupiter notebook is the platform used for performing operations on numpy and matplotlib libraries in python. Numpy is useful for for large multi-dimensional array and matrix processing where as Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations.Here in this assignment i have implemeneted properties like shape,type,datatype of array and computing eigen vectors, eigen values of array along with caluclating sum of diagonal elements in array using numpy library in python and I have created a pie chart of programming languages using matplotlib library in python.
+# Assignment 3 video drive link
+video: https://drive.google.com/file/d/1WY7rClf-B_0sHyoMpT__QxschroLYqmK/view?usp=sharing
+# ML_Assignment_4 brief introduction :
+Classifaction programs are done in this assignment.Differenet data modelas are trained using naive bayes and svm classifiers which are basically linear classifiers.
+By training the moldels we have found out naive bayes have provided better output when compared to the svm linear classifier.
+
