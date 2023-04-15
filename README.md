@@ -20,4 +20,8 @@ video: https://drive.google.com/file/d/1WY7rClf-B_0sHyoMpT__QxschroLYqmK/view?us
 # ML_Assignment_4 brief introduction :
 Classifaction programs are done in this assignment.Differenet data modelas are trained using naive bayes and svm classifiers which are basically linear classifiers.
 By training the moldels we have found out naive bayes have provided better output when compared to the svm linear classifier.
+# Assignment 5 video drive link
+video: https://drive.google.com/file/d/1hlLrjamrIcHb6TXcVstMDSbtvBuupy-d/view?usp=sharing
+# ML_Assignment_5 brief introduction :
+These programs cover various techniques in machine learning and data analysis, such as PCA, k-means, scaling, SVM, and LDA. By working through these exercises, we can gain a deeper understanding of how to preprocess and analyze datasets, and how to improve the performance of machine learning algorithms. These demonstrate how to apply these techniques to different datasets and tasks, including clustering, classification, and dimensionality reduction.
 
